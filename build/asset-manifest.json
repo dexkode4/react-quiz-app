@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.329b0812.chunk.js",
+    "main.js.map": "/static/js/main.329b0812.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50b5716e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50b5716e.js.map",
+    "static/js/2.c33d4828.chunk.js": "/static/js/2.c33d4828.chunk.js",
+    "static/js/2.c33d4828.chunk.js.map": "/static/js/2.c33d4828.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38ebbaf88eb3eb9f573e11d58914a829.js": "/precache-manifest.38ebbaf88eb3eb9f573e11d58914a829.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c33d4828.chunk.js.LICENSE.txt": "/static/js/2.c33d4828.chunk.js.LICENSE.txt",
+    "static/media/pure-julia.jpg": "/static/media/pure-julia.3566bc37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b5716e.js",
+    "static/js/2.c33d4828.chunk.js",
+    "static/js/main.329b0812.chunk.js"
+  ]
+}
